@@ -18,6 +18,15 @@ p, #customers{
     box-sizing: border-box;
     color: white;
 }
+p1{ 
+  font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.vw;  
+    text-align: center;
+    font-weight: bold;
+    box-sizing: border-box;
+    color: white;
+    outline: white solid 2px;
+}
 .blog
 {
   padding: 6vw ;
@@ -36,8 +45,6 @@ p, #customers{
   position: relative;
 }
 .hometext{
-    width: 90%;
-    height: 45vw;
     padding: 3% ;
     padding-right: 1% ;
     padding-left: 50px
