@@ -52,7 +52,7 @@ p1{
 .mainbar{
   background-color: darkslategray;
   background-size: 100%;
-  height:320vh ; width:50% ; float:left;
+  width:50% ; float:left;
   border-radius: 20px;
   padding-top: 100px;
   padding-left: 100px ;
